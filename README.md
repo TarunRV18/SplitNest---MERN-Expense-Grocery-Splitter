@@ -1,4 +1,3 @@
-﻿# SplitNest---MERN-Expense-Grocery-Splitter
 # 🏠 SplitNest – Expense Splitting App for Roommates
 
 ## 📌 Overview
